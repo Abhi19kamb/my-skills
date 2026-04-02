@@ -1,3 +1,4 @@
 # my-skills
-this is my 2026 new repository
-author:abhishek
+This is my 2026 new repository.
+<br>
+Author : Abhishek
